@@ -15,4 +15,6 @@ class BaseClass:
         logger.setLevel(logging.DEBUG)
         return logger
 
+print("new branch")
+
 
