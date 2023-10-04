@@ -1,0 +1,10 @@
+2023-10-04 00:13:18,228 - my_logger - DEBUG - This is a debug message
+2023-10-04 00:13:18,228 - my_logger - INFO - This is an info message
+2023-10-04 00:13:18,228 - my_logger - WARNING - This is a warning message
+2023-10-04 00:13:18,228 - my_logger - ERROR - This is an error message
+2023-10-04 00:13:18,228 - my_logger - CRITICAL - This is a critical message
+2023-10-04 00:15:45,444 - my_logger - DEBUG - This is a debug message
+2023-10-04 00:15:45,444 - my_logger - INFO - This is an info message
+2023-10-04 00:15:45,444 - my_logger - WARNING - This is a warning message
+2023-10-04 00:15:45,444 - my_logger - ERROR - This is an error message
+2023-10-04 00:15:45,444 - my_logger - CRITICAL - This is a critical message
