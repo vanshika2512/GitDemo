@@ -19,3 +19,4 @@ def test_loggingDemo():
     logger.critical("Critical issue")
 
 print("hello")
+print("hello")
