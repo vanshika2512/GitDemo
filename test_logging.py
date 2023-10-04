@@ -18,3 +18,4 @@ def test_loggingDemo():
     logger.error("A Major error has happend")
     logger.critical("Critical issue")
 
+print("hello")
